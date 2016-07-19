@@ -1,0 +1,8 @@
+.idea
+*.ipr
+*.iws
+
+dl.sega-pc.com
+
+build
+.gradle
